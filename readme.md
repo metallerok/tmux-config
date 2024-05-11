@@ -28,7 +28,10 @@ run '~/.tmux/plugins/tpm/tpm'
 `<leader>%` - split horizonal
 
 `<leader>:rename-window {name}`
+
 `<leader>:rename-session {name}`
+
+`<leader>:new` - new session
 
 `<leader>d` - detach window
 
