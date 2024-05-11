@@ -1,5 +1,11 @@
 # Init
 
+## Install config
+```bash
+git clone https://github.com/metallerok/tmux-config.git "${XDG_CONFIG_HOME:-$HOME/.config}"/tmux
+
+```
+
 ## Plugin manager
 ```bash
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
